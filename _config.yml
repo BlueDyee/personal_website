@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "蕭登方 (Hsiao, Teng-Fang) Homepage"
+title                    : "Teng-Fang's Homepage"
 title_separator          : "-"
 name                     : &name "蕭登方 (Hsiao, Teng-Fang)"
-description              : &description "Sharing my research, teaching, and other academic work."
+description              : &description "Sharing my research, work and side projects."
 url                      : https://bluedyee.github.io/personal_website/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BlueDyee/personal_website"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "蕭登方 (Hsiao, Teng-Fang)"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Vision, 2D/3D/Video Generation and Editing"
+  bio              : "Computer Vision, 2D/3D/Video Generation and Editing. \nsecond year of Master Degree in Electrical Engineering at National Yang Ming Chiao Tung University, Taiwan. \nI am interested in computer vision, 2D/3D/Video generation and editing. \nI am also interested in the application of deep learning in computer vision. \nI have experience in using PyTorch and TensorFlow for deep learning tasks."
   location         : "Taiwan, Hsinchu"
-  employer         : "Study Master Degree in National Yang Ming Chiao Tung University"
+  employer         : "National Yang Ming Chiao Tung University"
   uri              : # URL
   email            : "bluedyee.ee09@nycu.edu.tw" 
 
