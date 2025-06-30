@@ -9,7 +9,7 @@ redirect_from:
 
 ## 👋 Hi! I’m Hsiao, Teng-Fang (蕭登方)
 
-I’ve been pursuing my **Master’s degree of Electrical Engineering at National Yang Ming Chiao Tung University** since **September 2024** 🎓. Under the supervision of professor Shuai, Hong-Hang.
+I’ve been pursuing my **Master’s degree of Electrical Engineering at National Yang Ming Chiao Tung University** since **September 2024** 🎓. Under the supervision of professor Shuai, Hong-Han.
 
 My research focuses on **Computer Vision** and **AIGC**.  
 I previously worked on **2D generation and image editing**, and I'm now exploring **3D and video generation** 🧠🖼️🎥.
