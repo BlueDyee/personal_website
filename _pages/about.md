@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 Hi! I’m Teng-Fang Hsiao (蕭登方)
+## 👋 Hi! I’m Hsiao, Teng-Fang (蕭登方)
 
-I’ve been pursuing my **Master’s degree of Electrical Engineering at National Yang Ming Chiao Tung University** since **September 2024** 🎓.
+I’ve been pursuing my **Master’s degree of Electrical Engineering at National Yang Ming Chiao Tung University** since **September 2024** 🎓. Under the supervision of professor Shuai, Hong-Hang.
 
 My research focuses on **Computer Vision** and **AIGC**.  
 I previously worked on **2D generation and image editing**, and I'm now exploring **3D and video generation** 🧠🖼️🎥.
@@ -18,6 +18,8 @@ I'm the **first author** of publications at **ICCV 2025**, **AAAI 2025**, and **
 and also a **co-author** on a paper accepted at **ICIP 2025** 📄✨.
 
 I'm always **open to academic discussions, collaborations, or research opportunities 🤝** — feel free to reach out!
+
+<hr style="width: 100%; border: none; border-top: 1px solid #ccc; margin: 30px 0;">
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
   <img src="images/tf_ti2i.png" alt="teaser" style="width: 100%; max-width: 800px; height: auto;">
@@ -34,6 +36,8 @@ I'm always **open to academic discussions, collaborations, or research opportuni
   </div>
 </div>
 
+<hr style="width: 100%; border: none; border-top: 1px solid #ccc; margin: 30px 0;">
+
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
   <img src="images/tf_gph.png" alt="teaser" style="width: 100%; max-width: 800px; height: auto;">
   <div style="flex: 1; min-width: 200px;">
@@ -44,9 +48,11 @@ I'm always **open to academic discussions, collaborations, or research opportuni
     <i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025</i><br>
     Harmonizing any copy and pasted objects in a Training-Free manner 🖼️👩🏻‍🎨🎨<br> 
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32368">pdf</a> /
-    <a href="https://github.com/BlueDyee/TF-GPH">GitHub</a> /
+    <a href="https://github.com/BlueDyee/TF-GPH">GitHub</a>
   </div>
 </div>
+
+<hr style="width: 100%; border: none; border-top: 1px solid #ccc; margin: 30px 0;">
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
   <img src="images/light_attack.png" alt="teaser" style="width: 100%; max-width: 800px; height: auto;">
@@ -58,9 +64,11 @@ I'm always **open to academic discussions, collaborations, or research opportuni
     <i>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025</i> <br>
     Real world physical attack on Autonomus Driving with Natural Light 💡🚗⚠️<br> 
     <a href="https://openaccess.thecvf.com/content/WACV2024/html/Hsiao_Natural_Light_Can_Also_Be_Dangerous_Traffic_Sign_Misinterpretation_Under_WACV_2024_paper.html">pdf</a> /
-    <a href="https://github.com/BlueDyee/natural-light-attack">GitHub</a> /
+    <a href="https://github.com/BlueDyee/natural-light-attack">GitHub</a>
   </div>
 </div>
+
+<hr style="width: 100%; border: none; border-top: 1px solid #ccc; margin: 30px 0;">
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
   <img src="images/freecond.png" alt="teaser" style="width: 100%; max-width: 800px; height: auto;">
@@ -72,6 +80,6 @@ I'm always **open to academic discussions, collaborations, or research opportuni
     <i>arXiv preprin, 2024/11 </i><br>
     Enhancing Inpainting Quality without additional computation 🖌️💪0️⃣<br> 
     <a href="https://arxiv.org/abs/2412.00427">pdf</a> /
-    <a href="https://github.com/BlueDyee/natural-light-attack">GitHub</a> /
+    <a href="https://github.com/BlueDyee/natural-light-attack">GitHub</a>
   </div>
 </div>
