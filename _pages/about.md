@@ -22,6 +22,12 @@ For those users that need more advanced functionality, the template also support
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="images/tf_ti2i.png" alt="[簡單示意圖]" width="100">
-  <div><b>TF-TI2I：</b>To be appear on ICCV 2005。</div>
+  <img src="images/tf_ti2i.png" alt="teaser" width="400">
+  <div><b>TF-TI2I：</b><br>
+  Authors <br>
+  ICCV 2025 <br>
+  <a href="https://arxiv.org/abs/2503.15283">pdf</a>/
+  <a href="https://github.com/BlueDyee/TF-TI2I">github</a>/
+  <a href="https://bluedyee.github.io/TF-TI2I_page/">page</a>
+  </div>
 </div>
