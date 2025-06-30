@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Teng-Fang – Master Student in National Yang Ming Chiao Tung University"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,13 +21,14 @@ For those users that need more advanced functionality, the template also support
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="images/tf_ti2i.png" alt="teaser" width="400">
-  <div><b>TF-TI2I：</b><br>
-  Authors <br>
-  ICCV 2025 <br>
-  <a href="https://arxiv.org/abs/2503.15283">pdf</a>/
-  <a href="https://github.com/BlueDyee/TF-TI2I">github</a>/
-  <a href="https://bluedyee.github.io/TF-TI2I_page/">page</a>
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
+  <img src="images/tf_ti2i.png" alt="teaser" style="width: 100%; max-width: 600px; height: auto;">
+  <div style="flex: 1; min-width: 200px;">
+    <b>TF-TI2I：</b><br>
+    Authors <br>
+    ICCV 2025 <br>
+    <a href="https://arxiv.org/abs/2503.15283">pdf</a> /
+    <a href="https://github.com/BlueDyee/TF-TI2I">Github</a> /
+    <a href="https://bluedyee.github.io/TF-TI2I_page/">Project page</a>
   </div>
 </div>
