@@ -15,7 +15,7 @@ My research focuses on **Computer Vision** and **AIGC**.
 I previously worked on **2D generation and image editing**, and I'm now exploring **3D and video generation** 🧠🖼️🎥.
 
 I'm the **first author** of publications at **ICCV 2025**, **AAAI 2025**, and **WACV 2024**,  
-and also a **co-author** on a paper accepted at **ICIP 2025** 📄✨.
+and also **co-author** of papers accepted at **ICIP 2025 (Oral)**, **EMNLP 2025 (Findings)** 📄✨.
 
 I'm always **open to academic discussions, collaborations, or research opportunities 🤝** — feel free to reach out!
 
