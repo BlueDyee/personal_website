@@ -61,7 +61,7 @@ I'm always **open to academic discussions, collaborations, or research opportuni
     Natural light can also be dangerous: Traffic sign misinterpretation under adversarial natural light attacks
     </b><br>
     <i><u>Teng-Fang Hsiao</u>, Bo-Lun Huang, Zi-Xiang Ni, Yan-Ting Lin, Hong-Han Shuai, Yung-Hui Li, Wen-Huang Cheng</i> <br>
-    <i>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025</i> <br>
+    <i>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024</i> <br>
     Real world physical attack on Autonomus Driving with Natural Light 💡🚗⚠️<br> 
     <a href="https://openaccess.thecvf.com/content/WACV2024/html/Hsiao_Natural_Light_Can_Also_Be_Dangerous_Traffic_Sign_Misinterpretation_Under_WACV_2024_paper.html">pdf</a> /
     <a href="https://github.com/BlueDyee/natural-light-attack">GitHub</a>
